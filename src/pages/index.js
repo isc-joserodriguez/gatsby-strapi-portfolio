@@ -8,7 +8,7 @@ import Projects from "../components/Projects"
 import Blogs from "../components/Blogs"
 export default () => (
   <Layout>
-    
+    <Hero />
   </Layout>
 );
 
