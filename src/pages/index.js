@@ -9,6 +9,7 @@ import Blogs from "../components/Blogs"
 export default () => (
   <Layout>
     <Hero />
+    <Services />
   </Layout>
 );
 
